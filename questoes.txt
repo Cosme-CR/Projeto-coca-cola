@@ -33,6 +33,7 @@ Por que é importante utilizar tags semânticas no HTML?
 O que são media queries no CSS e qual a sua função?
 
 Qual a função do GitHub Pages?
+    
 
 O que é o Flexbox no CSS e para que ele é utilizado?
 
